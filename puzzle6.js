@@ -13,3 +13,6 @@ if (firstColorSeen == "blue") {
   up
 } else {
   left
+  up
+  down
+}
