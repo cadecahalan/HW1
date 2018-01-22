@@ -1,0 +1,17 @@
+down
+down
+down
+down
+right
+firstColorSeen
+down
+setColor(firstColorSeen)
+right
+right
+up
+right
+firstColorSeen
+down
+setColor(firstColorSeen)
+right
+right
