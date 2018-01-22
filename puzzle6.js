@@ -1,5 +1,5 @@
 right
-if (firstColorSeen = "red") {
+if (firstColorSeen == "red") {
   up
   up
   up
@@ -8,7 +8,7 @@ if (firstColorSeen = "red") {
   down
   down
 }
-if (firstColorSeen = "blue") {
+if (firstColorSeen == "blue") {
   right
   up
 } else {
