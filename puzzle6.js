@@ -14,3 +14,8 @@ if (getColor == "blue") {
 } else {
   left
 }
+if (firstColorSeen == "red") {
+  up
+} else {
+  down
+}
