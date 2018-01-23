@@ -22,4 +22,4 @@ if (firstColorSeen == "blue") {
 }
 right
 right
-right
+right 
