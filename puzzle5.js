@@ -1,21 +1,21 @@
 right
 right
 var firstColorSeen = getColor
-if (getColor == "blue") {
+if (firstColorSeen == "blue") {
   down
 } else {
   up
 }
 right
 right
-if (getColor == "blue") {
+if (firstColorSeen == "blue") {
   down
 } else {
   up
 }
 right
 right
-if (getColor == "blue") {
+if (firstColorSeen == "blue") {
   down
 } else {
   up
