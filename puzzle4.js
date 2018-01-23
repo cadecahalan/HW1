@@ -3,7 +3,7 @@ down
 down
 down
 right
-firstColorSeen
+var firstColorSeen = getColor
 down
 setColor(firstColorSeen)
 right
