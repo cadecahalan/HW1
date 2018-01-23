@@ -1,5 +1,6 @@
 right
 right
+var firstColorSeen = getColor
 if (getColor == "blue") {
   down
 } else {
