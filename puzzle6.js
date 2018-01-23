@@ -1,4 +1,5 @@
 right
+var firstColorSeen = getColor
 if (firstColorSeen == "red") {
   up
   up
@@ -8,11 +9,8 @@ if (firstColorSeen == "red") {
   down
   down
 }
-if (firstColorSeen == "blue") {
+if (getColor == "blue") {
   right
-  up
 } else {
   left
-  up
-  down
 }
