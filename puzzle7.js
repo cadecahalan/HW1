@@ -1,24 +1,24 @@
-while (firstColorSeen != "red") {
+while (getColor != "red") {
   down
 }
 right
 right
-while (firstColorSeen != "red") {
+while (getColor != "red") {
   up
 }
 right
 right
-while (firstColorSeen != "red") {
+while (getColor != "red") {
   down
 }
 right
 right
-while (firstColorSeen != "red") {
+while (getColor != "red") {
   up
 }
 right
 right
-while (firstColorSeen != "red") {
+while (getColor != "red") {
   down
 }
 right
