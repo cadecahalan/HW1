@@ -10,8 +10,8 @@ right
 right
 up
 right
-firstColorSeen
+var secondColorSeen = getColor
 down
-setColor(firstColorSeen)
+setColor(secondColorSeen)
 right
 right
