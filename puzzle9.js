@@ -1,29 +1,27 @@
-var setColor == "blue"
-
 var steps = 0
 while (steps < 10) {
   down
-  setColor
+  setColor("blue")
   steps = steps + 1
 }
 
 var steps = 0
 while (steps < 10) {
   right
-  setColor
+  setColor("blue")
   steps = steps + 1
 }
 
 var steps = 0
 while (steps < 10) {
   up
-  setColor
+  setColor("blue")
   steps = steps + 1
 }
 
 var steps = 0
 while (steps < 10) {
   left
-  setColor
+  setColor("blue")
   steps = steps + 1
 }
